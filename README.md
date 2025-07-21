@@ -14,7 +14,7 @@ Gemini CLI is Google’s open-source AI agent that brings the power of Gemini di
 - Install Node.js (v18+)
 You can use fnm or download from nodejs.org
 - Install Gemini CLI via npm
-npm install -g @google/gemini-cli
+"npm install -g @google/gemini-cli"
 - Run Gemini CLI
 gemini
 - Authenticate
